@@ -23,7 +23,7 @@
 -  → [**Assignment 5 - C++**](https://github.com/neriabd/Workshop-C-CPP/tree/main/Assignment%205)
 <br> Crafting a personalized streaming library tailored to individual user preferences.
 <br><br>
--  → [**Assignment 6- C++**](https://github.com/neriabd/Workshop-C-CPP/tree/main/Assignment%206)
+-  → [**Assignment 6 - C++**](https://github.com/neriabd/Workshop-C-CPP/tree/main/Assignment%206)
 <br> Implementing a templated generic HashMap alongside a Dictionary that leverages the HashMap.
 <br><br> 
 

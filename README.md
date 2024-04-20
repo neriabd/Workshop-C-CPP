@@ -15,7 +15,7 @@
 <br> Implementation of a first order markov chain to generate tweets.
 <br><br>
 -  → [**Assignment 3b - C**](https://github.com/neriabd/Workshop-C-CPP/tree/main/Assignment%203b)
-<br> Implementation of Snake and Ladders using a generic markov chain model.
+<br> Implementation of Snakes and Ladders using a generic markov chain model.
 <br><br>
 -  → [**Assignment 4 - C++**](https://github.com/neriabd/Workshop-C-CPP/tree/main/Assignment%204)
 <br> Developing a number recognition system using a Fully Connected Neural Network.
